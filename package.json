@@ -1,12 +1,18 @@
 {
   "name": "graphql-metadata",
-  "version": "0.7.6",
+  "version": "0.7.6-lineaje-01",
   "description": "Annotate a GraphQL Schema",
   "author": "Enda Phelan <ephelan@redhat.com>",
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aerogear/graphql-metadata.git"
+    "url": "https://github.com/lineaje-labs-gos/aerogear-graphql-metadata"
   },
   "bugs": {
     "url": "https://github.com/aerogear/graphql-metadata/issues"
